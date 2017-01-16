@@ -8,7 +8,7 @@
     "deep-equal": "^1.0.1",
     "dns-equal": "^1.0.0",
     "dns-txt": "^2.0.2",
-    "multicast-dns": "^6.0.1",
+    "multicast-dns": "huanvu/multicast-dns#2377d81e29b2029e263a345d7f60f1f3ac6d9614",
     "multicast-dns-service-types": "^1.1.0"
   },
   "devDependencies": {
